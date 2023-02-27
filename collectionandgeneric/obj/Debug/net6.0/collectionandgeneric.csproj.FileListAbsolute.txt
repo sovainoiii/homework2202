@@ -1,0 +1,15 @@
+E:\CSharp\homework2202\collectionandgeneric\bin\Debug\net6.0\collectionandgeneric.exe
+E:\CSharp\homework2202\collectionandgeneric\bin\Debug\net6.0\collectionandgeneric.deps.json
+E:\CSharp\homework2202\collectionandgeneric\bin\Debug\net6.0\collectionandgeneric.runtimeconfig.json
+E:\CSharp\homework2202\collectionandgeneric\bin\Debug\net6.0\collectionandgeneric.dll
+E:\CSharp\homework2202\collectionandgeneric\bin\Debug\net6.0\collectionandgeneric.pdb
+E:\CSharp\homework2202\collectionandgeneric\obj\Debug\net6.0\collectionandgeneric.csproj.AssemblyReference.cache
+E:\CSharp\homework2202\collectionandgeneric\obj\Debug\net6.0\collectionandgeneric.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp\homework2202\collectionandgeneric\obj\Debug\net6.0\collectionandgeneric.AssemblyInfoInputs.cache
+E:\CSharp\homework2202\collectionandgeneric\obj\Debug\net6.0\collectionandgeneric.AssemblyInfo.cs
+E:\CSharp\homework2202\collectionandgeneric\obj\Debug\net6.0\collectionandgeneric.csproj.CoreCompileInputs.cache
+E:\CSharp\homework2202\collectionandgeneric\obj\Debug\net6.0\collectionandgeneric.dll
+E:\CSharp\homework2202\collectionandgeneric\obj\Debug\net6.0\refint\collectionandgeneric.dll
+E:\CSharp\homework2202\collectionandgeneric\obj\Debug\net6.0\collectionandgeneric.pdb
+E:\CSharp\homework2202\collectionandgeneric\obj\Debug\net6.0\collectionandgeneric.genruntimeconfig.cache
+E:\CSharp\homework2202\collectionandgeneric\obj\Debug\net6.0\ref\collectionandgeneric.dll

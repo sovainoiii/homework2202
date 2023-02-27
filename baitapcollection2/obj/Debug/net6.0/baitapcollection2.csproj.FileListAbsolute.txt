@@ -1,0 +1,15 @@
+E:\CSharp\homework2202\baitapcollection2\bin\Debug\net6.0\baitapcollection2.exe
+E:\CSharp\homework2202\baitapcollection2\bin\Debug\net6.0\baitapcollection2.deps.json
+E:\CSharp\homework2202\baitapcollection2\bin\Debug\net6.0\baitapcollection2.runtimeconfig.json
+E:\CSharp\homework2202\baitapcollection2\bin\Debug\net6.0\baitapcollection2.dll
+E:\CSharp\homework2202\baitapcollection2\bin\Debug\net6.0\baitapcollection2.pdb
+E:\CSharp\homework2202\baitapcollection2\obj\Debug\net6.0\baitapcollection2.csproj.AssemblyReference.cache
+E:\CSharp\homework2202\baitapcollection2\obj\Debug\net6.0\baitapcollection2.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp\homework2202\baitapcollection2\obj\Debug\net6.0\baitapcollection2.AssemblyInfoInputs.cache
+E:\CSharp\homework2202\baitapcollection2\obj\Debug\net6.0\baitapcollection2.AssemblyInfo.cs
+E:\CSharp\homework2202\baitapcollection2\obj\Debug\net6.0\baitapcollection2.csproj.CoreCompileInputs.cache
+E:\CSharp\homework2202\baitapcollection2\obj\Debug\net6.0\baitapcollection2.dll
+E:\CSharp\homework2202\baitapcollection2\obj\Debug\net6.0\refint\baitapcollection2.dll
+E:\CSharp\homework2202\baitapcollection2\obj\Debug\net6.0\baitapcollection2.pdb
+E:\CSharp\homework2202\baitapcollection2\obj\Debug\net6.0\baitapcollection2.genruntimeconfig.cache
+E:\CSharp\homework2202\baitapcollection2\obj\Debug\net6.0\ref\baitapcollection2.dll
